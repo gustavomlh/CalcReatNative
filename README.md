@@ -1,7 +1,8 @@
 
 # Trabalho feito em React Native
 
-## Grupo: Gustavo Melo e Breno Paiva 
+## Grupo: Gustavo Melo, Breno Paiva e Lucas Machado
+
 
 
 
